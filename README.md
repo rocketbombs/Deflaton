@@ -13,7 +13,7 @@ _Deflaton (DFLT)_ is a hyper-deflationary cryptocurrency designed for the modern
 ### Tokenomics
 
 - **Initial Supply:** 10 Billion (10,000,000,000 DFLT)
-- **Burn Mechanism:** 1% of every transaction is burned forever.
+- **Burn Mechanism:** 9% of every transaction is burned forever.
 - **Redistribution:** 10% of every transaction is redistributed to all holders.
 - **Transaction Tax:** A 1% transaction tax ensures sustainability and community rewards.
 
