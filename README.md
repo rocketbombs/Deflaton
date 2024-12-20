@@ -7,40 +7,49 @@
     <style>
         body {
             font-family: Arial, sans-serif;
+            line-height: 1.6;
             margin: 0;
             padding: 0;
             background-color: #f4f4f9;
             color: #333;
         }
         header {
+            text-align: center;
             background-color: #1a73e8;
             color: white;
-            padding: 1rem 2rem;
-            text-align: center;
+            padding: 1.5rem 0;
+        }
+        header h1 {
+            font-size: 2.5rem;
+            margin: 0;
+        }
+        header p {
+            font-size: 1.2rem;
+            margin: 0.5rem 0 0;
         }
         .container {
             max-width: 800px;
             margin: 2rem auto;
             padding: 1rem;
-            background-color: white;
-            border-radius: 10px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
         }
-        h1, h2, h3 {
+        h2 {
             color: #1a73e8;
+            text-decoration: underline;
         }
         ul {
-            list-style: none;
-            padding: 0;
+            padding-left: 20px;
         }
         ul li {
-            padding: 0.5rem 0;
+            margin: 0.5rem 0;
         }
         footer {
             text-align: center;
-            padding: 1rem;
             background-color: #333;
             color: white;
+            padding: 1rem;
             margin-top: 2rem;
         }
         .button {
@@ -50,7 +59,7 @@
             color: white;
             text-decoration: none;
             border-radius: 5px;
-            margin: 1rem 0;
+            margin-top: 1rem;
         }
         .button:hover {
             background-color: #1558b0;
@@ -64,9 +73,9 @@
     </header>
     <div class="container">
         <h2>About Deflaton</h2>
-        <p>Deflaton (DFLT) is a hyper-deflationary cryptocurrency designed for the modern decentralized economy. With every transaction, Deflaton reduces its supply and rewards its community.</p>
+        <p><em>Deflaton (DFLT)</em> is a hyper-deflationary cryptocurrency designed for the modern decentralized economy. With every transaction, Deflaton reduces its supply and rewards its community.</p>
 
-        <h3>Tokenomics</h3>
+        <h2>Tokenomics</h2>
         <ul>
             <li><strong>Initial Supply:</strong> 10 Billion (10,000,000,000 DFLT)</li>
             <li><strong>Burn Mechanism:</strong> 1% of every transaction is burned forever.</li>
@@ -74,14 +83,14 @@
             <li><strong>Transaction Tax:</strong> A 1% transaction tax ensures sustainability and community rewards.</li>
         </ul>
 
-        <h3>Why Choose Deflaton?</h3>
+        <h2>Why Choose Deflaton?</h2>
         <ul>
-            <li>Community-first approach with built-in rewards.</li>
-            <li>Deflationary mechanics to increase scarcity and value over time.</li>
-            <li>Transparency and fairness at the core of the project.</li>
+            <li><strong>Community-First Approach:</strong> Built-in rewards for loyal holders.</li>
+            <li><strong>Deflationary Mechanics:</strong> Increases scarcity and value over time.</li>
+            <li><strong>Transparency and Fairness:</strong> Core principles of the project.</li>
         </ul>
 
-        <a class="button" href="#">Get Started with DFLT</a>
+        <a href="#" class="button">Get Started with DFLT</a>
     </div>
 
     <footer>
