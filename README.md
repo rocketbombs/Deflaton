@@ -27,7 +27,7 @@ _Deflaton (DFLT)_ is a hyper-deflationary cryptocurrency designed for the modern
 
 ---
 
-[**Get Started with DFLT**](#)https://app.uniswap.org/swap?outputCurrency=0x22c2eFaEcA757B19525BF347C5DE0Fe098D31A19
+[**Get Started with DFLT**(#)https://app.uniswap.org/swap?outputCurrency=0x22c2eFaEcA757B19525BF347C5DE0Fe098D31A19]
 
 ---
 
